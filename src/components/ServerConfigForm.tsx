@@ -483,7 +483,7 @@ export const ServerConfigForm: React.FC<ServerConfigFormProps> = ({
           <div className="flex items-start gap-2.5">
             <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-cyan-400" />
             <div>
-              <span className="font-semibold text-slate-200">Local Sandbox Isolation:</span> All entered server configurations remain strictly inside your browser state. No actual banking network, clearing house, or external financial server is reached.
+              <span className="font-semibold text-slate-200">Local Sandbox Isolation:</span> All entered server configurations remain strictly inside your browser state. actual banking network, clearing house, or external financial server is reached.
             </div>
           </div>
         </div>
