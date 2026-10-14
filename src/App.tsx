@@ -316,7 +316,7 @@ export default function App() {
           </div>
 
           <div className="text-[11px] text-slate-400">
-            Automated synthetic server stress testing. No real banking accounts or financial clearing systems accessed.
+            Automated synthetic server stress testing. real banking accounts or financial clearing systems accessed.
           </div>
 
           <div className="font-mono text-[11px] text-cyan-500/70">
